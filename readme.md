@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/paulosantosphs/clean-node-api.svg?branch=master)](https://travis-ci.org/paulosantosphs/clean-node-api)
+[![Coverage Status](https://coveralls.io/repos/github/paulosantosphs/clean-node-api/badge.svg)](https://coveralls.io/github/paulosantosphs/clean-node-api)
+
 # **Clean Node API**
 
 Essa API faz parte do treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
