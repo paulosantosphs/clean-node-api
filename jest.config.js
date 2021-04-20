@@ -8,4 +8,7 @@ module.exports = {
     '.+\\.ts$': 'ts-jest'
   },
   coverageProvider: "babel",
+  moduleNameMapper: {
+    '@/(.*)': '<rootDir>/src/$1'
+  }
 };
